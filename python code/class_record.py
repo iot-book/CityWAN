@@ -18,6 +18,7 @@ class Record:
             company_id, gas_number, message_len, message_type, type_service)
         self.trans_id = 0
 
+        
 class RecordBatch:
     """Summary of class here.
 

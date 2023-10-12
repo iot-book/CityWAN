@@ -21,8 +21,6 @@ from progress.bar import Bar
 #     environ["QT_SCREEN_SCALE_FACTORS"] = "1"
 #     environ["QT_SCALE_FACTOR"] = "1"
 
-
-
 def read_header(fileName):
     f = open(fileName, 'r', encoding='GBK')
     reader = csv.reader(f)
