@@ -11,7 +11,7 @@ Shuai Tong, Jiliang Wang, Yunhao Liu, Jun Zhang. 2023. Citywide LoRa Network Dep
 
 We collect information of both uplinks and downlinks at the network server, which gathers transmission records at all LoRa gateways. 
 
-The collected dataset are public available at: https://tianchi.aliyun.com/notebook-ai/myDataSet?spm=a2c22.12281897.0.0.6b5423b7cO4EYX#datasetLabId=163450
+The collected dataset are public available at: [https://tianchi.aliyun.com/notebook-ai/myDataSet?spm=a2c22.12281897.0.0.6b5423b7cO4EYX#datasetLabId=163450](https://tianchi.aliyun.com/dataset/163450)
 
 **The data format of uplink transmissions is as follows:**
 
